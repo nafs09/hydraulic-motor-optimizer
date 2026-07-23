@@ -291,4 +291,4 @@ Potential improvements include:
 
 # License
 
-This project is protected under the MIT license
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
